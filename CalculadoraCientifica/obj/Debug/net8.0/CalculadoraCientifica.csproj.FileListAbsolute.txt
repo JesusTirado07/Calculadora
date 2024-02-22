@@ -1,0 +1,14 @@
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.exe
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.deps.json
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.runtimeconfig.json
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.dll
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.pdb
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.AssemblyInfoInputs.cache
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.AssemblyInfo.cs
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.dll
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\refint\CalculadoraCientifica.dll
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.pdb
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.genruntimeconfig.cache
+C:\Users\tirad\Codigos-Vs-Code\Calculadora\CalculadoraCientifica\obj\Debug\net8.0\ref\CalculadoraCientifica.dll
